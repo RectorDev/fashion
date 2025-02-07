@@ -27,7 +27,7 @@ export default function Home() {
       <section className="padding-x h-screen">
         <DownloadApp />
       </section>
-      <section className="padding-x">
+      <section className="padding-x h-1/2 bg-accent">
         <Contact />
       </section>
       <section className="padding-x">
