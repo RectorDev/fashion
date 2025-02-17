@@ -9,6 +9,13 @@
   --info: 0 0% 53%;
 }
 
+
+.banner2 {
+  @media  (max-width: 1280px){
+    background-image: url("/public/banner2-leftpart.png");
+    background-size: cover; background-repeat: no-repeat;
+  }
+}
 /* @media (prefers-color-scheme: dark) {
   :root {
     --primary: #0a0a0a;
@@ -24,7 +31,7 @@
 body {
   color: var(--secondary);
   background: var(--primary);
-  font-family:"Poppins", Helvetica, sans-serif;
+  font-family: "Poppins", Helvetica, sans-serif;
 }
 /* Padding Utilities */
 .padding-sm {

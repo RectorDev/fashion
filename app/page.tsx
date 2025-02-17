@@ -24,13 +24,13 @@ export default function Home() {
       <section className="padding-x-xl">
         <Youngs />
       </section>
-      <section className="padding-x h-screen">
+      <section className="padding-x">
         <DownloadApp />
       </section>
-      <section className="padding-x h-1/2 bg-accent">
+      <section className="padding-x bg-accent">
         <Contact />
       </section>
-      <section className="padding-x">
+      <section className="padding-x bg-black xl:h-1/2">
         <Footer />
       </section>
     </>

@@ -4,7 +4,7 @@
 import { StaticImageData } from "next/image";
 import bannerPart from "./banner part.png";
 import banner1 from "./banner1.png";
-import banner2LeftPart from "./banner2 leftpart.png";
+import banner2LeftPart from "./banner2-leftpart.png";
 import banner2RightPart from "./banner2 right part.png";
 import bannerpart from "./bannerpart.png";
 
