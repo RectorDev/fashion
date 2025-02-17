@@ -4,7 +4,7 @@ import React from "react";
 function Footer() {
   return (
     <div className=" flex padding-y-2xl justify-evenly gap-7xl max-lg:flex-col items-center">
-      <div className="flex   flex-col justify-evenly ">
+      <div className="flex flex-col justify-evenly gap ">
         <p className="font-bold font-poppins text-white uppercase text-3xl">fashion</p>
         <p className="text-white/50">Complete your style with awesome clothes from us.</p>
         <span className="flex gap-3">
