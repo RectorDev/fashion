@@ -1,5 +1,5 @@
 .banner-1 {
-  background-image: url("@/public/banner1.png");
+  background-image: url("/banner1.png");
   background-repeat: no-repeat;
 
   object-fit: fill;
